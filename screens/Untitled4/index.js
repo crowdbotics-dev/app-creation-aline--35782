@@ -1,36 +1,36 @@
 import React from "react";
 import { View, StyleSheet, Text } from "react-native";
 
-const Untitled1 = () => {
-  return <View style={_styles.tFyRBmhA}>
-      <View style={_styles.WngAefLr}><Text>Hello</Text></View><View style={_styles.zlPNiklH}></View></View>;
+const Untitled4 = () => {
+  return <View style={_styles.hITxwdLF}>
+      <View style={_styles.qsdwFIbe}><Text>Hello!</Text></View><View style={_styles.CjtrPJTp}></View></View>;
 };
 
-export default Untitled1;
+export default Untitled4;
 
 const _styles = StyleSheet.create({
-  tFyRBmhA: {
+  hITxwdLF: {
     backgroundColor: "#f0f0f1",
     padding: 10,
     position: "relative",
     height: "100%"
   },
-  WngAefLr: {
-    left: 71,
-    top: 118,
+  qsdwFIbe: {
+    left: 56,
+    top: 77,
     position: "absolute",
-    height: 129,
-    width: 202,
+    height: 60,
+    width: 140,
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
     color: "#777777"
   },
-  zlPNiklH: {
-    left: 76,
-    top: 302,
+  CjtrPJTp: {
+    left: 56,
+    top: 147,
     position: "absolute",
-    height: 129,
-    width: 202,
+    height: 60,
+    width: 140,
     backgroundColor: "#E4E4E4",
     borderRadius: 0,
     color: "#777777"
