@@ -38,7 +38,8 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "NewTitle",
-    "copy": "Routes available!"
+    "title": "NewOptions",
+    "copy": "Routes available!",
+    "styles": styles
   }
 };
