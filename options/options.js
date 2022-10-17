@@ -41,5 +41,6 @@ export const modulesOptions = {
     "title": "NewOptions",
     "copy": "Routes available!",
     "styles": styles
-  }
+  },
+  "@modules/articles": {}
 };
